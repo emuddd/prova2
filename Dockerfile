@@ -1,4 +1,4 @@
-FROM golang:1.9.4-stretch
+FROM golang:1.9.4-stretch@sha256:50edc9278a011f6b291d23d7cffa540c6d36da8c14b864feca266757b8fea2b5
 MAINTAINER schumyhaojl@126.com
 
 ENV DEBIAN_FRONTEND noninteractive
